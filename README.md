@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+this project was created on the 28th 08 2020
+project one
 
 ### Project Title
-Replace the Project Title
+git project
 
 ### Description
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+bike share file
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
