@@ -22,11 +22,11 @@ cities= { 'Chicago':"chicago.csv",
          'Washington':"washington.csv",
          'NYC':"new_york_city.csv",
          'Glasgow':"Glasgow.csv",
-    
+
        }
 
 
-months= ['january', 'february','march', 'april', 'may', 'june', 'july','August']
+months= ['january', 'february','march', 'april', 'may', 'june', ]
 
 #different ways by which the data can be filteresd
 filter_type =['day','month', 'both', 'none']
