@@ -3,7 +3,7 @@ this project was created on the 28th 08 2020
 project one
 
 ### Project Title
-git project
+first git project
 
 ### Description
 Describe what your project is about and what it does
