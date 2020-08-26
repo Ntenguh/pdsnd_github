@@ -80,10 +80,7 @@ def infos(m):
     print('\ncalculating for the Total travel time ...')
     total_travel_time = m["Trip Duration"].sum()
     print('The total travel time: ',total_travel_time)
-        print('\ncalculating for the Total travel time ...')
-        total_travel_time = m["Trip Duration"].sum()
-        print('The total travel time: ',total_travel_time)
-
+        
     #calculating for the Average travel time
     print('\ncalculating for the Average travel time ...')
     Average_travel_time = m["Trip Duration"].mean()
